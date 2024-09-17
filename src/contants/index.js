@@ -354,8 +354,8 @@ const certifications = [
         date: "December 2024",
         tags: [
             {
-                name: "SQL",
-                color: "Data Processing and Visualization",
+                name: "Data Processing and Visualization",
+                color: "blue-text-gradien",
             },
         ],
         image: DP,  // Image representing the certification
