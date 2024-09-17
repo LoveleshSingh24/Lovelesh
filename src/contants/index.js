@@ -355,7 +355,7 @@ const certifications = [
         tags: [
             {
                 name: "Data Processing and Visualization",
-                color: "blue-text-gradien",
+                color: "blue-text-gradient",
             },
         ],
         image: DP,  // Image representing the certification
