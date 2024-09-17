@@ -47,8 +47,8 @@ export const navLinks = [
         title: "work",
     },
     {
-        id: "certification",
-        title: "Certification",  // Add this for the Certification section
+        id: "certifications",
+        title: "Certifications",  // Add this for the Certification section
     },
     {
         id: "contact",

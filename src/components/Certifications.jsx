@@ -91,4 +91,4 @@ const Certifications = () => {
   );
 };
 
-export default SectionWrapper(Certifications, "certification");
+export default SectionWrapper(Certifications, "certifications");

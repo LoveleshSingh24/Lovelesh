@@ -7,7 +7,7 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
-import Cirtification from './certification';
+import Certifications from './Certifications';
 
 export {
   Hero,
@@ -22,5 +22,5 @@ export {
   BallCanvas, 
   ComputersCanvas, 
   StarsCanvas,
-  Cirtification
+  Certifications,
 }
